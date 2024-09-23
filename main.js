@@ -14,4 +14,4 @@
     console.log(areatriangulo(3,4));
     let media=prompt('adicione 3 numeros');
     document.write(media);
-    parseInt(prompt(3));
+    parseInt(prompt(adicione 3 numeros));
