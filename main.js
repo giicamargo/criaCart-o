@@ -12,6 +12,11 @@
         return base*altura/2;
     }
     console.log(areatriangulo(3,4));
-    let media=prompt('adicione 3 numeros');
-    document.write(media);
-    parseInt=prompt(adicione 3 numeros);
+
+    let MedirMedia1=parseInt(prompt('nota primeiro trimestre'));
+    let MedirMedia2=parseInt(prompt('nota segundo trimestre'));
+    let MedirMedia3=parseInt(prompt('nota do terceiro trimestre'));
+    function media(num1,num2,num3){
+        return(num1,num2,num3)/3;
+    }
+    document.write(media(MedirMedia1,MedirMedia2,MedirMedia3));
