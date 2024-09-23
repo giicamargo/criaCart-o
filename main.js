@@ -12,6 +12,6 @@
         return base*altura/2;
     }
     console.log(areatriangulo(3,4));
-    let media=prompt('adicione 3 numeros'));
+    let media=prompt('adicione 3 numeros');
     document.write(media);
-    parseInt(prompt(?));
+    parseInt(prompt(3));
