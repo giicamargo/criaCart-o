@@ -11,4 +11,4 @@
     let areatriangulo=function(base,altura){
         return base*altura/2;
     }
-    console.log(areatriangulo(3));
+    console.log(areatriangulo(3,4));
