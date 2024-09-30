@@ -30,7 +30,7 @@ for (let i = 0; i < estado.length; i++) {
    console.log(estado[i]); }
 
    let idade=16;
-   if(idade){
+   if(idade>17){
     console.log('ja pode dirgir');
    }
    else{
