@@ -29,7 +29,7 @@
 for (let i = 0; i < estado.length; i++) {
    console.log(estado[i]); }
 
-   let idade=16;
+   let idade=parseInt(prompt('Qual a sua idade?'));
    if(idade>17){
     console.log('ja pode dirgir');
    }
